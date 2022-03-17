@@ -13,4 +13,7 @@ This is a green emerald color theme, I hope you enjoy
 5. Select the Manage Cog (bottom left) > Color Theme > emerald-nebula Theme
 6. ⭐⭐⭐⭐⭐ Rate five-stars 😃
 
+# Repository
+- https://github.com/RygoB/emerald-nebula-vscode-theme
+
 **Enjoy!**

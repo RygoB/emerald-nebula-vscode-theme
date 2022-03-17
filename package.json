@@ -2,10 +2,16 @@
     "name": "emerald-nebula",
     "displayName": "emerald-nebula",
     "description": "VSCode theme by rygo ;)",
+    "publisher": "rygob",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.65.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/RygoB/emerald-nebula-vscode-theme"
+    },
+    "icon": "https://raw.githubusercontent.com/RygoB/emerald-nebula-vscode-theme/master/img/emerald-nebula-icon.png",
     "categories": [
         "Themes"
     ],
